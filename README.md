@@ -1,4 +1,4 @@
-# Hi, I'm Macdonald — welcome to my GitHub!
+# Hi, I'm Macdonald, welcome to my GitHub!
 
 * 🎓 BSc Computer Science student at Aston University
 * 💻 Aspiring Software Developer with a focus on Python, Java, and full-stack development
