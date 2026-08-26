@@ -10,4 +10,4 @@ Final year Computer Science @ Aston University.
 **Shipped**
 - A retrieval-grounded evaluation framework benchmarking medical LLM responses against biomedical evidence
 
-More as it lands.
+More as it lands
