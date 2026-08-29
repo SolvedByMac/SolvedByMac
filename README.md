@@ -1,6 +1,6 @@
 ### **Machines that see, track, and act.**
 
-Final year Computer Science @ Aston University
+Final year Computer Science @ Aston University.
 
 **Currently building**
 - Multi-object tracking with re-identification - motion prediction, data association, appearance-based re-identification, evaluated with MOT Challenge metrics
