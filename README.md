@@ -2,12 +2,12 @@
 
 Final year Computer Science @ Aston University.
 
-**Currently building**
-- Multi-object tracking with re-identification - motion prediction, data association, appearance-based re-identification, evaluated with MOT Challenge metrics
-- Sensor fusion and state estimation for multi-target tracking
-- Vision-guided robot manipulation - perception driving a learned control policy
-
 **Shipped**
-- A retrieval-grounded evaluation framework benchmarking medical LLM responses against biomedical evidence
+- Vision-guided robot manipulation
+- Multi-object tracking with re-identification
+- Retrieval-grounded evaluation for medical LLMs
 
-More as it lands.
+**Currently building**
+- Something new
+
+More as it lands
